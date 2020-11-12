@@ -3,7 +3,7 @@
 # Update Notes:
 
 
- [ v1.4 ] (So far)
+ **v1.4** (So far)
 
  1. SkidMark change to trail renderer (Now it looks much nicer)
 
@@ -11,7 +11,7 @@
 
 
 
-  [ v1.3 ]
+  **v1.3**
 
  * 1 Bug Fix.
  * Make Changes.
