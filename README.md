@@ -3,16 +3,16 @@
 
 # Movement binds:
 
- To move forward: W
- To move Back: S
- To rotate left: A
- To rotate right: B
- To jump: Space Bar
+ * To move forward: W
+ * To move Back: S
+ * To rotate left: A
+ * To rotate right: B
+ * To jump: Space Bar
 
 # Key binds:
 
- Debug Console: Tab
- Restart: R
+ * Debug Console: Tab
+ * Restart: R
 
 # Update Notes:
 
