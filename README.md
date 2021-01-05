@@ -6,7 +6,7 @@
  * To move forward: W
  * To move Back: S
  * To rotate left: A
- * To rotate right: B
+ * To rotate right: D
  * To jump: Space Bar
 
 # Key binds:
